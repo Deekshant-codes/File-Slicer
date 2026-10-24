@@ -1,0 +1,6 @@
+{
+  "name": "File Slicer",
+  "description": "A public, no-login web file-processing toolkit for PDF manipulation, document conversion, and image processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
